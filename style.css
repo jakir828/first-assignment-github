@@ -429,3 +429,9 @@ header nav ul li button {
 }
 
 /* main section end  */
+
+.footer-top {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px auto;
+}
