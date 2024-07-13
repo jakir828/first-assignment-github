@@ -184,3 +184,54 @@ header nav ul li button {
 
 /* header section design finished  */
 
+/* work section style  */
+.works {
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+    margin: 60px auto;
+}
+
+.works .container {
+    width: 946px;
+    margin: auto;
+    padding: 80px;
+}
+
+.works .container .details {
+    margin-bottom: 48px;
+}
+
+.works .work {
+    width: 850px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255), rgba(255, 255, 255, 0) 100%);
+}
+
+.works .work {
+    padding: 48px;
+    margin: 10px auto;
+}
+
+.works .work .about {
+    padding-right: 110px;
+}
+
+/* secund work style */
+.works .second-work-about {
+    padding-left: 50px;
+    padding-right: 100px;
+}
+
+.works .second-work {
+    width: 850px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    border-radius: 16px;
+    background: linear-gradient(270.00deg, rgb(255, 255, 255), rgba(255, 255, 255, 0) 100%);
+}
+
+/* work section style end  */
